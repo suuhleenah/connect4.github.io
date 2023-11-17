@@ -1,0 +1,12 @@
+body {
+    background-image: url("wallpaper.jpeg"); /* source: http://getwallpapers.com/collection/original-windows-95-wallpaper */
+    background-size: cover;
+}
+
+#myCanvas {
+    border:2px solid black;
+    text-align: center center;
+    margin-left: 50%;
+    transform: translate(-50%, 0);
+    background-image: url("splashscreen.png");
+}
